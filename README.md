@@ -1,25 +1,27 @@
-# my-links
+# Links for Brian Roach
 
-Welcome to `my-links` for `links.dev`, a repo for individuals to customize their page on links.dev
+Welcome to my link in bio page on links.dev! This page is based on the [my-links repository](https://github.com/linksdotdev/my-links) by [links.dev](https://links.dev). It contains links to my various online profiles and pages, including LinkedIn, GitHub, Twitter, and more.
 
-To use this repo, follow these steps:
+## Links
 
-- Fork this repo to your own GitHub account.
+- **LinkedIn:** [https://linkedin.com/in/itsbrianroach](https://linkedin.com/in/itsbrianroach) - My professional profile on LinkedIn, including my work experience and skills.
 
-- In the root directory of the repo, update the "page.json". This file should contain the data for your link in bio
-  page, such as the links you want to include, the titles for each link, and any other relevant information.
+- **GitHub:** [https://github.com/itsbrex](https://github.com/itsbrex) - My open source projects and contributions on GitHub.
 
-- Update the file called "custom.css" in the same directory. This file will be used to customize the look and feel of
-  your link in bio page. You can use this file to add your own styles, such as fonts, colors, and layout.
+- **Twitter:** [https://twitter.com/itsbrex](https://twitter.com/itsbrex) - My personal Twitter account, where I share my thoughts and updates.
 
-- Once you have created/updated your page.json and custom.css files, you can view your link in bio page by visiting the
-  URL for your forked repo. For example, if your username is "fatih", the URL for your link in bio page would
-  be https://links.dev/fatih
+- **Buy me a coffee:** [https://www.buymeacoffee.com/](https://www.buymeacoffee.com/) - A link to my "Buy me a coffee" page, where visitors can support my work with a small donation.
 
-- If you want to invalidate the cache after you update your page, hit your page with refresh parameter, like
-  this: https://links.dev/fatih?refresh=1
+- **Instagram:** [instagram.com/itsbrex](instagram.com/itsbrex) - My personal Instagram account, where I share photos and updates.
 
-If you want to make changes to your link in bio page, simply update your page.json and custom.css files, commit the
-changes to your repo, and refresh the page to see the updates.
+- **Spotify:** [https://spoti.fi/3HwXb6a](https://spoti.fi/3HwXb6a) - A link to my Spotify account, where I share my music and playlists.
 
-Happy customizing!
+## Customization
+
+I have customized the look of my page using the custom.css file. I have used custom fonts and colors to create a clean and professional look for my page.
+
+## Additional information
+
+I will be updating this page regularly with new links and updates. Please check back often to see what's new!
+
+If you would like to create your own link in bio page, you can use the [my-links repository](https://github.com/linksdotdev/my-links) as a starting point. Simply fork the repository to your own account and customize the page to your liking. Then, share your Link in Bio URL with potential employers, clients, and followers to make it easier for them to find and access all your important links in one place.
