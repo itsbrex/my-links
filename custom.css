@@ -1,41 +1,85 @@
-
 .ld-custom-name {
-    color: black;
+  color: #ffffff;
 }
 
 .ld-custom-name:visited {
-    color: black;
+  color: #ffffff;
 }
 
 .ld-custom-button-container {
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    background-color: #2665d6;
-    color: #fff;
+  transition: transform 450ms;
+  background-color: #0D1117;
+  color: #ffffff;
+  transform-origin: center;
+  will-change: transform;
 }
 
 .ld-custom-button-container:hover {
-    -webkit-transform: scale(1.02);
-    -ms-transform: scale(1.02);
-    transform: scale(1.02);
+  transform: scale(1.05);
+  transition: transform 150ms;
+ 
 }
 
 .ld-custom-button {
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
-    transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+  transition: transform 450ms;
+  will-change: transform;
+  transform-origin: center;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 14px;
 }
 
-.ld-custom-background-layer {
-    background-color: #fff;
+.ld-custom-button:hover {
+ 
+  transform-origin: center;
+  transition: transform 150ms;
+ 
+  border-radius: 14px;
 }
+
+.ld-custom-button:active,
+.ld-custom-button:focus {
+  background-color: #0D1117;
+  color: #bdbdbd;
+  border-color: #ffffff;
+}
+
+div.page-container {
+  background-color: #0D1117;
+}
+
+h2.ld-custom-description-h2 {
+ color: #ffffff;
+}
+
+div.ld-background-base {
+  background-color: #0D1117;
+}
+
+footer {
+/*   position: fixed; */
+  /* left: 0; */
+  /* bottom: 0; */
+  /* margin-left: auto;
+  margin-right: auto; */
+/*   z-index: -1; */
+}
+
+footer .revision {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+/* 
+footer .revision::before {
+  content: "pushed by ";
+}
+
+footer .revision a {
+  text-decoration: none;
+}
+
+footer .revision a::after {
+  content: "";
+} */
