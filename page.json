@@ -5,33 +5,38 @@
 	"links": [
 		{
 			"title": "LinkedIn",
-			"url": "https://linkedin.com/in/itsbrianroach",
+			"url": "http://bit.ly/3Wxu2My",
 			"icon": "linkedin"
 		},
 		{
 			"title": "GitHub",
-			"url": "https://github.com/itsbrex",
+			"url": "https://bit.ly/3WNTWLH",
 			"icon": "github"
 		},
 		{
 			"title": "Twitter",
-			"url": "https://twitter.com/itsbrex",
+			"url": "https://bit.ly/3WUet1v",
 			"icon": "twitter"
 		},
 		{
-			"title": "Buy me a coffee",
-			"url": "https://www.buymeacoffee.com/",
-			"icon": "mug"
-		},
-		{
 			"title": "Instagram",
-			"url": "instagram.com/itsbrex",
+			"url": "https://bit.ly/3VuSNb0",
 			"icon": "instagram"
 		},
 		{
 			"title": "Spotify",
 			"url": "https://spoti.fi/3HwXb6a",
 			"icon": "spotify"
-		}
+		},
+		{
+			"title": "SoundCloud",
+			"url": "https://bit.ly/3VuCU4n",
+			"icon": "soundcloud"
+		},
+		{
+			"title": "Buy me a coffee?",
+			"url": "https://bit.ly/3WUeCSB",
+			"icon": "mug"
+		},
 	]
 }
