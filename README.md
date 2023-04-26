@@ -2,25 +2,43 @@
 
 Welcome to my link in bio page on links.dev! This page is based on the [my-links repository](https://github.com/linksdotdev/my-links) by [links.dev](https://links.dev). It contains links to my various online profiles and pages, including LinkedIn, GitHub, Twitter, and more.
 
+
 ## Links
 
-- **LinkedIn:** [https://linkedin.com/in/itsbrianroach](https://linkedin.com/in/itsbrianroach) - My professional profile on LinkedIn, including my work experience and skills.
+- [LinkedIn](https://linkedin.com/in/itsbrianroach) 
 
-- **GitHub:** [https://github.com/itsbrex](https://github.com/itsbrex) - My open source projects and contributions on GitHub.
+  Currently looking for a new gig, so feel free to reach out if you're hiring! 👀
 
-- **Twitter:** [https://twitter.com/itsbrex](https://twitter.com/itsbrex) - My personal Twitter account, where I share my thoughts and updates.
+- [GitHub](https://github.com/itsbrex)
 
-- **Buy me a coffee:** [https://www.buymeacoffee.com/](https://www.buymeacoffee.com/) - A link to my "Buy me a coffee" page, where visitors can support my work with a small donation.
+  You can find all my open-source projects here. I'm always working on something new!
 
-- **Instagram:** [instagram.com/itsbrex](instagram.com/itsbrex) - My personal Instagram account, where I share photos and updates.
+- [Twitter](https://twitter.com/itsbrex)
 
-- **Spotify:** [https://spoti.fi/3HwXb6a](https://spoti.fi/3HwXb6a) - A link to my Spotify account, where I share my music and playlists.
+  I tweet about tech, music, and AI art. I also retweet a lot of cool stuff.
+
+- [Buy me a coffee](https://www.buymeacoffee.com/)
+
+  If you like my work, you can support me by buying me a coffee. Thanks! ❤️
+
+- [Instagram](https://instagram.com/itsbrex)
+
+  Where I share my work-in-progress music and AI art 🤓.
+
+- [Spotify](https://spoti.fi/3HwXb6a)
+
+  I release music under the name "Brex" and have a few songs out now. I had the name before the company, I swear!
+
+
 
 ## Customization
 
-I have customized the look of my page using the custom.css file. I have used custom fonts and colors to create a clean and professional look for my page.
+- Once you have created/updated your page.json and custom.css files, you can view your link in bio page by visiting the
+  URL for your forked repo. For example, if your username is "fatih", the URL for your link in bio page would
+  be https://links.dev/fatih
 
-## Additional information
+- If you want to invalidate the cache after you update your page, hit your page with refresh parameter, like
+  this: https://links.dev/fatih?refresh=1
 
 I will be updating this page regularly with new links and updates. Please check back often to see what's new!
 

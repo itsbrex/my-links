@@ -1,57 +1,37 @@
 {
-	"name": "Brian Roach",
-	"description": "Technical PM - Looking for work! 🙋‍♂️",
-	"image_url": "https://avatars.githubusercontent.com/u/9772694?v=4",
-	"links": [
-		{
-			"title": "LinkedIn",
-			"url": "https://linkedin.com/in/itsbrianroach",
-			"icon": "linkedin"
-		},
-		{
-			"title": "GitHub",
-			"url": "https://github.com/itsbrex",
-			"icon": "github"
-		},
-		{
-			"title": "Twitter",
-			"url": "https://twitter.com/itsbrex",
-			"icon": "twitter"
-		},
-		{
-			"title": "Buy me a coffee",
-			"url": "https://www.buymeacoffee.com/",
-			"icon": "mug"
-		},
-		{
-			"title": "Instagram",
-			"url": "instagram.com/itsbrex",
-			"icon": "instagram"
-		},
-		// {
-		//   "title": "Medium",
-		//   "url": "http://bit.ly/3I1ZYnV",
-		//   "icon": "medium"
-		// },
-		// {
-		//   "title": "Youtube",
-		//   "url": "http://bit.ly/3Gek9h3",
-		//   "icon": "youtube"
-		// },
-		// {
-		//   "title": "Side Project",
-		//   "url": "http://bit.ly/3hNX2AK",
-		//   "icon": "link"
-		// },
-		// {
-		//   "title": "LeetCode",
-		//   "url": "http://bit.ly/3hSebcj",
-		//   "icon": "click"
-		// },
-		{
-			"title": "Spotify",
-			"url": "https://spoti.fi/3HwXb6a",
-			"icon": "spotify"
-		}
-	]
+  "name": "Brian Roach",
+  "description": "Technical PM with experience building full-stack AI-integrated apps. Please reach out on LinkedIn if you are hiring. 🙋‍♂️",
+  "image_url": "https://avatars.githubusercontent.com/u/9772694?v=4",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/itsbrianroach",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/itsbrex",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/itsbrex",
+      "icon": "twitter"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/itsbrex",
+      "icon": "mug"
+    },
+    {
+      "title": "Instagram",
+      "url": "instagram.com/itsbrex",
+      "icon": "instagram"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://spoti.fi/3HwXb6a",
+      "icon": "spotify"
+    }
+  ]
 }
