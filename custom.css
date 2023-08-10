@@ -1,6 +1,9 @@
 .ld-custom-name {
   color: #ffffff;
 }
+a.ld-custom-name {
+  font-size: 0px;
+}
 
 .ld-custom-name:visited {
   color: #ffffff;
@@ -66,11 +69,12 @@ footer {
 }
 
 footer .revision {
-  display: none !important;
+  display: flex;
   justify-content: center;
   margin-bottom: 15px;
   font-size: 12px;
 }
+
 /* 
 footer .revision::before {
   content: "pushed by ";
