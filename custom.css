@@ -2,7 +2,7 @@
   color: #ffffff;
 }
 a.ld-custom-name {
-  font-size: 0px;
+  font-size: 0px !important;
 }
 
 .ld-custom-name:visited {
