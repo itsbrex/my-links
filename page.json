@@ -10,12 +10,12 @@
     },
     {
       "title": "Text Me (iMessage)",
-      "url": "imessage:%31%36%31%39%35%31%38%30%39%37%36",
+      "url": "imessage://%31%36%31%39%35%31%38%30%39%37%36?body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...",
       "icon": "phone"
     },
     {
       "title": "Text Me (SMS)",
-      "url": "sms:%31%36%31%39%35%31%38%30%39%37%36",
+      "url": "sms://%31%36%31%39%35%31%38%30%39%37%36?body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...",
       "icon": "phone"
     },
     {
