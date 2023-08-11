@@ -4,6 +4,10 @@
 a.ld-custom-name {
   font-size: 0px !important;
 }
+.ld-profile-image {
+  width: 150px;
+  height: 150px;
+}
 
 .ld-custom-name:visited {
   color: #ffffff;
