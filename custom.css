@@ -15,7 +15,7 @@ a.ld-custom-name {
 
 .ld-custom-button-container {
   transition: transform 450ms;
-  background-color: #0D1117;
+  background-color: #0d1117;
   color: #ffffff;
   transform-origin: center;
   will-change: transform;
@@ -24,7 +24,6 @@ a.ld-custom-name {
 .ld-custom-button-container:hover {
   transform: scale(1.05);
   transition: transform 150ms;
- 
 }
 
 .ld-custom-button {
@@ -37,39 +36,38 @@ a.ld-custom-name {
 }
 
 .ld-custom-button:hover {
- 
   transform-origin: center;
   transition: transform 150ms;
- 
+
   border-radius: 14px;
 }
 
 .ld-custom-button:active,
 .ld-custom-button:focus {
-  background-color: #0D1117;
+  background-color: #0d1117;
   color: #bdbdbd;
   border-color: #ffffff;
 }
 
 div.page-container {
-  background-color: #0D1117;
+  background-color: #0d1117;
 }
 
 h2.ld-custom-description-h2 {
- color: #ffffff;
+  color: #ffffff;
 }
 
 div.ld-background-base {
-  background-color: #0D1117;
+  background-color: #0d1117;
 }
 
 footer {
-/*   position: fixed; */
+  /*   position: fixed; */
   /* left: 0; */
   /* bottom: 0; */
   /* margin-left: auto;
   margin-right: auto; */
-/*   z-index: -1; */
+  /*   z-index: -1; */
 }
 
 footer .revision {
