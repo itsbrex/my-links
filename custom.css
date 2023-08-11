@@ -1,3 +1,14 @@
+div.ld-mt-32 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.ld-mt-32 > div {
+  flex-basis: 50%;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
 .ld-custom-name {
   color: #ffffff;
 }
