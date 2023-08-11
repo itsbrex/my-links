@@ -1,17 +1,27 @@
 {
   "name": "Brian Roach",
-  "description": "Technical PM + Full-stack Developer currently building Web 4.0 applications with AI/ML.\n\nHiring? If so, please contact me via email or LinkedIn. Thank you! 🙋‍♂️",
+  "description": "Technical PM + Full-stack Developer. Buildin Web 4.0 AI/ML 4.0 applications with AI/ML. If you are hiring and would like to chat, please send me a text, email, or message on LinkedIn, or grab some time directly on my calendar using the links below. Thank you! 🙋‍♂️",
   "image_url": "https://avatars.githubusercontent.com/u/9772694?v=4",
   "links": [
-    {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/in/itsbrex",
-      "icon": "linkedin"
-    },
     {
       "title": "Email",
       "url": "mailto:%68%69%40%69%74%73%62%72%65%78%2e%64%65%76?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...",
       "icon": "mail"
+    },
+    {
+      "title": "Text Me (iMessage)",
+      "url": "imessage://%31%36%31%39%35%31%38%30%39%37%36?messageText=Hi%20Brian",
+      "icon": "phone"
+    },
+    {
+      "title": "Text Me (SMS)",
+      "url": "sms://%31%36%31%39%35%31%38%30%39%37%36?body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...",
+      "icon": "phone"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/itsbrex",
+      "icon": "linkedin"
     },
     {
       "title": "GitHub",
@@ -24,11 +34,6 @@
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/itsbrex",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
       "url": "instagram.com/itsbrex",
       "icon": "instagram"
@@ -37,6 +42,11 @@
       "title": "Spotify",
       "url": "https://spoti.fi/3HwXb6a",
       "icon": "spotify"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/itsbrex",
+      "icon": "mug"
     }
   ]
 }
