@@ -1,12 +1,12 @@
 div.ld-mt-32 {
-  display: flex;
-  flex-wrap: wrap;
+  display: flex !important;
+  flex-wrap: wrap !important;
 }
 
 div.ld-mt-32 > div {
-  flex-basis: 50%;
-  padding-right: 20px;
-  box-sizing: border-box;
+  flex-basis: 50% !important;
+  padding-right: 20px !important;
+  box-sizing: border-box !important;
 }
 
 .ld-custom-name {
