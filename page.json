@@ -9,12 +9,12 @@
       "icon": "mail"
     },
     {
-      "title": "Text Me - Mac/iPhone",
+      "title": "Text Me (iMessage)",
       "url": "imessage://%31%36%31%39%35%31%38%30%39%37%36?body%3DHi%20Brian%21%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub/Linked%20and%20wanted%20to%20reach%20out%20about%20an%20opportunity%20you%20might%20be%20interested%20in%21",
       "icon": "phone"
     },
     {
-      "title": "Text Me - Android/PC",
+      "title": "Text Me (Android)",
       "url": "sms://%31%36%31%39%35%31%38%30%39%37%36?body%3DHi%20Brian%21%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub/Linked%20and%20wanted%20to%20reach%20out%20about%20an%20opportunity%20you%20might%20be%20interested%20in%21",
       "icon": "phone"
     },
