@@ -16,4 +16,4 @@
 
 <br>
 
-> This page is based on the [my-links repository](https://github.com/linksdotdev/my-links) by [links.dev](https://links.dev). 
+> This page is based on the [my-links repository](https://github.com/fatih-yavuz/my-links) by [links.dev](https://links.dev).
