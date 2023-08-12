@@ -43,7 +43,7 @@ a.ld-custom-name {
 }
 
 .ld-custom-button-container:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
   transition: transform 150ms;
 }
 
@@ -75,7 +75,7 @@ color: #ffffff;
 
 /* Google Meet Button */
 #root-container div div div div.ld-mt-32 div:nth-child(2) div.ld-pos-rel div div:hover {
-background-color: #32a351;
+background-color: #00ac47;
 color: #ffffff;
 }
 
@@ -87,14 +87,14 @@ color: #ffffff;
 
 /* Android Button */
 #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div:hover {
-background-color: #37cc65;
+background-color: #57c85b;
 color: #ffffff;
 }
 
 /* LinkedIn Button */
 #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div:hover {
 background-color: #0C98F6;
-color: #0d1117
+color: #ffffff;
 }
 
 /* GitHub Button */
@@ -106,7 +106,7 @@ color: #0d1117;
 /* Twitter Button */
 #root-container div div div div.ld-mt-32 div:nth-child(7) div.ld-pos-rel div div:hover {
 background-color: #0C98F6;
-color: #0d1117;
+color: #ffffff;
 }
 
 /* Instagram Button */
@@ -162,3 +162,5 @@ div.page-container {
     padding-right: 5px;
   }
 }
+
+
