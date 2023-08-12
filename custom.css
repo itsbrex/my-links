@@ -106,7 +106,7 @@ color: #0d1117;
 /* Twitter Button */
 #root-container div div div div.ld-mt-32 div:nth-child(7) div.ld-pos-rel div div:hover {
 background-color: #0C98F6;
-color: #0d1117
+color: #0d1117;
 }
 
 /* Instagram Button */
@@ -118,7 +118,7 @@ color: #ffffff;
 /* Spotify Button */
 #root-container div div div div.ld-mt-32 div:nth-child(9) div.ld-pos-rel div div:hover {
 background-color: #39d75f;
-color: #ffffff;
+color: #0d1117;
 }
 /* Coffee Button */
 #root-container div div div div.ld-mt-32 div:nth-child(10) div.ld-pos-rel div div:hover {
