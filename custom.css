@@ -1,4 +1,4 @@
-/* @media (prefers-color-scheme: light) { */
+@media (prefers-color-scheme: dark) {
     /* General Styles */
      html, body,.ld-background-base {
          background-color: #0d1117;
@@ -179,7 +179,7 @@
      h2.ld-custom-description-h2 {
          color: #bdbdbd;
     }
-/* } */
+}
 
 
 
