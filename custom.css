@@ -69,6 +69,9 @@
      #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div:hover {
          background-color: #ccb100;
          color: #0d1117;
+         display: flex;
+         align-items: center;
+         justify-content: center;
     }
     /* Resume Button */
      #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div:hover {
@@ -129,6 +132,9 @@
     /* Coffee Button */
      #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
          background-image: none;
+         display: flex;
+         align-items: center;
+         justify-content: center;
     }
     /* Resume Button */
      #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div {
