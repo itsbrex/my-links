@@ -13,6 +13,11 @@
          transform: scale(1.03);
          transition: transform 150ms;
     }
+    /* Resume Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div:hover {
+         background-color: #bdbdbd;
+         color: #ffffff;
+    }
     /* Email Button */
      #root-container div div div div.ld-mt-32 div:nth-child(2) div.ld-pos-rel div div:hover {
          background-color: #D44638;
@@ -63,6 +68,11 @@
      #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div:hover {
          background-color: #ccb100;
          color: #0d1117;
+    }
+    /* Resume Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div:hover {
+         color: #ffffff;
+         background-image: none;
     }
     /* Email Button */
      #root-container div div div div.ld-mt-32 div:nth-child(2) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(2) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon-mail {
@@ -119,6 +129,10 @@
      #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(11) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
          background-image: none;
     }
+    /* Resume Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div {
+         background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #dddddd, #bdbdbd);
+    }    
     /* Email Button */
      #root-container div div div div.ld-mt-32 div:nth-child(2) div.ld-pos-rel div div {
          background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #B02E22, #D44638);
@@ -162,6 +176,10 @@
     /* General rule for button hover */
      #root-container div div div div.ld-mt-32 div div.ld-pos-rel div div:hover {
          color: #ffffff;
+    }
+    /* Resume Button exception */
+     #root-container div div div div.ld-mt-32 div:nth-child(1) div.ld-pos-rel div div:hover {
+         color: #000000;
     }
     /* GitHub Button exception */
      #root-container div div div div.ld-mt-32 div:nth-child(7) div.ld-pos-rel div div:hover {
