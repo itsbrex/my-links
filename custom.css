@@ -182,9 +182,6 @@
 }
 
 
-
-
-
 footer .revision {
   display: flex;
   justify-content: center;
@@ -198,9 +195,6 @@ footer .revision {
   background-origin: padding-box;
   background-clip: padding-box, border-box;
 }
-
-
-
 
 
 /* Hide links.dev footer */
