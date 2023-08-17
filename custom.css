@@ -28,21 +28,22 @@
          background-color: #00ac47;
          color: #ffffff;
     }
-    /* iMessage Button */
+    /* LinkedIn Button */
      #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div:hover {
+         background-color: #0C98F6;
+         color: #ffffff;
+    }
+    /* iMessage Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div:hover {
          background-color: #33a1fc;
          color: #ffffff;
     }
     /* Android Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div:hover {
+     #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div:hover {
          background-color: #57c85b;
          color: #ffffff;
     }
-    /* LinkedIn Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div:hover {
-         background-color: #0C98F6;
-         color: #ffffff;
-    }
+
     /* GitHub Button */
      #root-container div div div div.ld-mt-32 div:nth-child(7) div.ld-pos-rel div div:hover {
          background-color: #bdbdbd;
@@ -84,18 +85,18 @@
          color: #ffffff;
          background-image: none;
     }
+    /* LinkedIn Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
+         color: #ffffff;
+         background-image: none;
+    }
     /* iMessage Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
+     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
          color: #ffffff;
          background-image: none;
     }
     /* Android Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
-         color: #ffffff;
-         background-image: none;
-    }
-    /* LinkedIn Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
+     #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div:hover, #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div .ld-icon.ld-d-flex.icon.icon {
          color: #ffffff;
          background-image: none;
     }
@@ -141,17 +142,17 @@
      #root-container div div div div.ld-mt-32 div:nth-child(3) div.ld-pos-rel div div {
          background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #03db5d, #00ac47);
     }
-    /* iMessage Button */
+    /* LinkedIn Button */
      #root-container div div div div.ld-mt-32 div:nth-child(4) div.ld-pos-rel div div {
+         background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #26a6fb, #0C98F6);
+    }
+    /* iMessage Button */
+     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div {
          background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #4aadff, #33a1fc);
     }
     /* Android Button */
-     #root-container div div div div.ld-mt-32 div:nth-child(5) div.ld-pos-rel div div {
-         background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #5fdd63, #57c85b);
-    }
-    /* LinkedIn Button */
      #root-container div div div div.ld-mt-32 div:nth-child(6) div.ld-pos-rel div div {
-         background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #26a6fb, #0C98F6);
+         background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(to right, #5fdd63, #57c85b);
     }
     /* GitHub Button */
      #root-container div div div div.ld-mt-32 div:nth-child(7) div.ld-pos-rel div div {
