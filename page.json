@@ -1,6 +1,6 @@
 {
   "name": "Brian Roach",
-  "description": "Technical PM / Product Engineer building delightful user-experiences. Enjoying working in Next.js, Figma, Python  For all inquiries, please reach out via text, email, or LinkedIn, or schedule a meeting through the links below. Thanks!",
+  "description": "Technical PM/Product Engineer specialized in technical development of clean user-experiences with proficiency in web/audio and machine learning tools including: React/Next.js, GraphQL, Chrome APIs/extension development, Web Audio, Tone.js, TensorFlow.js, PyTorch, Librosa, Music21, Python, Figma.",
   "image_url": "https://raw.githubusercontent.com/itsbrex/my-links/main/profile-picture.png",
   "links": [
     {
@@ -52,6 +52,11 @@
       "title": "Spotify",
       "url": "https://spoti.fi/3HwXb6a",
       "icon": "spotify"
+    },
+    {
+      "title": "Coffee",
+      "url": "https://www.buymeacoffee.com/itsbrex",
+      "icon": "mug"
     }
   ]
 }
