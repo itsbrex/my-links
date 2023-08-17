@@ -24,6 +24,11 @@
       "icon": "phone"
     },
     {
+      "title": "Resume",
+      "url": "https://jsonresume.io/itsbrex",
+      "icon": "book"
+    }
+    {
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/itsbrex",
       "icon": "linkedin"
@@ -47,11 +52,6 @@
       "title": "Spotify",
       "url": "https://spoti.fi/3HwXb6a",
       "icon": "spotify"
-    },
-    {
-      "title": "Coffee",
-      "url": "https://www.buymeacoffee.com/itsbrex",
-      "icon": "mug"
     }
   ]
 }
