@@ -206,6 +206,11 @@
     }
 }
 
+.ld-mt-32 > * {
+  margin-top: 0.5vh;
+  min-width: 50%;
+  flex: 1;
+}
 
 footer .revision {
   display: flex;
