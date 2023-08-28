@@ -7,9 +7,9 @@
 
 -  [Resume](https://brian-roach.vercel.app) - For an up-to-date copy of my resume hosted on Vercel.
 
--  [iMessage](imessage://%36%31%39%35%31%38%30%39%37%36&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20and%20wanted%20to%20reach%20out%20about%20an%20opportunity%20you%20might%20be%20interested%20in!%0D%0A%0D%0AHere%20are%20more%20details%20about%20the%20role.%20Please%20let%20me%20know%20if%20you're%20interested%20and%20would%20like%20to%20discuss%20further.%0D%0A%0D%0AThanks!%0D%0A%0D%0A%5Byour%20awesome%20name%20-%20%F0%9F%99%82%5D) - Text me directly via iMessage.
+-  iMessage - Text me directly via iMessage (can't make this clickable here, but is on the main site).
 
--  [SMS](sms://%36%31%39%35%31%38%30%39%37%36&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20and%20wanted%20to%20reach%20out%20about%20an%20opportunity%20you%20might%20be%20interested%20in!%0D%0A%0D%0AHere%20are%20more%20details%20about%20the%20role.%20Please%20let%20me%20know%20if%20you're%20interested%20and%20would%20like%20to%20discuss%20further.%0D%0A%0D%0AThanks!%0D%0A%0D%0A%5Byour%20awesome%20name%20-%20%F0%9F%99%82%5D) -  Directly reach out to me via a text message.
+-  SMS -  Directly reach out to me via a text message (can't make this clickable here, but is on the main site).
 
 - [GitHub](https://github.com/itsbrex) - You can find all my open-source projects here. I'm always either building something new or exploring a cool project I found (don't judge my star count 🤩)!
 
