@@ -1,3 +1,9 @@
+.ld-mt-32 > * {
+  margin-top: 0.5vh !important;
+  min-width: 50% !important;
+  flex: 1 !important;
+}
+
 @media (prefers-color-scheme: dark) {
     /* General Styles */
      html, body,.ld-background-base {
@@ -204,12 +210,6 @@
      h2.ld-custom-description-h2 {
          color: #bdbdbd;
     }
-}
-
-.ld-mt-32 > * {
-  margin-top: 0.5vh !important;
-  min-width: 50% !important;
-  flex: 1 !important;
 }
 
 footer .revision {
