@@ -252,10 +252,10 @@ a.ld-custom-name {
     flex-wrap: wrap;
   }
 
-  /* .ld-mt-32 div {
+  .ld-mt-32 div {
     flex-basis: 50%;
     box-sizing: border-box;
-  } */
+  }
   .ld-mt-32 div:nth-child(odd) {
     padding-right: 5px;
   }
