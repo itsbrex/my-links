@@ -247,10 +247,10 @@ a.ld-custom-name {
     min-width: 50% !important;
     flex: 1 !important;
   }
-    /* .ld-mt-32 { */
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-  /* } */
+    .ld-mt-32 {
+    display: flex; */
+    flex-wrap: wrap;
+  }
 
   /* .ld-mt-32 div {
     flex-basis: 50%;
