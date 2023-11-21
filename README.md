@@ -13,7 +13,7 @@
 
 - [GitHub](https://github.com/itsbrex) - You can find all my open-source projects here. I'm always either building something new or exploring a cool project I found (don't judge my star count 🤩)!
 
-- [Twitter](https://twitter.com/itsbrex) - I tweet about tech, music, and AI. I'm also writing a newsletter called over at [@EarlyAIdopters](https://twitter.com/EarlyAIdopters)
+- [Twitter](https://twitter.com/itsbrex) - I tweet about tech, music, and AI.
 
 - [Buy me a coffee](https://www.buymeacoffee.com/itsbrex) - If you like my work, you can support me by buying me a coffee. Thanks! ❤️
 
